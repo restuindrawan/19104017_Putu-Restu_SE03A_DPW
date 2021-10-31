@@ -163,6 +163,12 @@
     font-weight: 900;
 }
 
+.f-bigger {
+    font-size: 2.5rem;
+    font-family: 'Zen Old Mincho', serif;
+    font-weight: 900;
+}
+
 .t-uppercase {
     text-transform: uppercase;
 }
@@ -399,6 +405,30 @@ textarea:focus {
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font-size: 0.8rem;
+}
+
+.footer-title {
+    font-family: 'Cuprum', sans-serif;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    margin-bottom: 20px;
+}
+
+.footer-desc {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
+    color: #6e7071;
+}
+
+.my-contact {
+    margin-top: 20px;
+    list-style: none;
+}
+
+.my-contact span {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
 }
 
 .btn {
